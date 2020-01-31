@@ -6,7 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  allowNewServer  = false;
 }
 
 // title binded so html is showing this
